@@ -70,11 +70,11 @@ A versão final integra o aplicativo com um banco de dados MySQL utilizando o Ja
 ## Executando o Projeto 🚀
 1. Clone o repositório:
    ```bash
-   git clone [url](https://github.com/MTR-S/java-crud-biblioteca)
+   git clone https://github.com/MTR-S/java-crud-biblioteca
    ```
 2. Navegue até o diretório da versão desejada:
    ```bash
-   cd  src/main/java/bibliotecaV1 # Para a Versão 1
+   cd src/main/java/bibliotecaV1 # Para a Versão 1
    cd src/main/java/bibliotecaV2  # Para a Versão 2
    cd src/main/java/bibliotecaV3  # Para a Versão 3
    ```
